@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-xbox-onoff",
+  "version": "0.0.13",
+  "description": "Homebridge Xbox OnOff Dev",
+  "author": "Stoner221",
+  "dependencies": {
+    "xbox-onoff": "^0.0.4"
+  },
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin", "xbox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
